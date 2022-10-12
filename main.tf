@@ -11,3 +11,4 @@ resource "google_storage_bucket" "gcs_bucket_for_mercaury_demo" {
     location = "us-central1"  
 
 }
+  
